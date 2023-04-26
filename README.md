@@ -1,11 +1,11 @@
 Oblig 2
 =======
-OsloMet brukernavn: 
+OsloMet brukernavn: s374920
 
-GitHub brukernavn: 
+GitHub brukernavn: walid-shar
 
-Github repo URL: 
+Github repo URL: https://github.com/data1700-v23/oblig-3-walid-shar.git
 
-Fullt navn: 
+Fullt navn: walid sharif
 
-Kort beskrivelse av applikasjon (5-10 setninger):
+Kort beskrivelse av applikasjon (5-10 setninger): i denne applikasjonen ble det gjort noe interresant. vi flettet sql og java inn i hverandre, slik at dataen som blir ført inn på nettsiden lagres i databasen.
